@@ -16,9 +16,9 @@ I am a student and tech enthusiast with a passion for software development. Cons
 - 🔭 I'm working in Desktop-App with Electron
 - 🌱 I’m currently learning React and C#.
 - 👯 I’m looking to collaborate on Frontend-Web projects.
-- ❤️ I love Creating websites and otimizing web pages.
-- ✨ If you can imagine it, you can program it. 
-- 🎿 Hobbies other than coding: Reading Webtoon , Playing games, Watching K-dramas.
+- ❤️ I love Creating websites and  optimizing web pages.
+- 🎿 Outside of coding, I enjoy reading Webtoons, playing games, and watching K-dramas.
+- ✨ “If you can imagine it, you can program it.
 ```
 
 <p align = "center">
