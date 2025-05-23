@@ -52,7 +52,9 @@ I am a student and tech enthusiast with a passion for software development. Cons
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
 
 </p>
-## 💻 Software and Tools
+
+### 💻 Software and Tools
+
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
@@ -66,7 +68,7 @@ I am a student and tech enthusiast with a passion for software development. Cons
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>##Github Stats</b>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 <p align="center">
     <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=Laura-LM&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
     <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Laura-LM&theme=radical&show_icons=true&border=e4e2e2" />
