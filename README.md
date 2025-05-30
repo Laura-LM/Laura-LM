@@ -23,9 +23,11 @@ I am a student and tech enthusiast with a passion for software development. Cons
 
 <p align = "center">
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lauralopezmd/)
-<a target="_blank" href="#"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lauralopezmd/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<!--<a target="_blank" href="#"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>-->
 
 
 ## 🛠️ Technologies
