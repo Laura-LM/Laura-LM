@@ -13,7 +13,6 @@ I am a student and tech enthusiast with a passion for software development. Cons
 
   <!-- Description -->
 ```diff
-- 🔭 I'm working in Desktop-App with Electron
 - 🌱 I’m currently learning React and C#.
 - 👯 I’m looking to collaborate on Frontend-Web projects.
 - ❤️ I love Creating websites and  optimizing web pages.
