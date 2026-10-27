@@ -22,7 +22,7 @@ I am a Full-Stack Web Developer and tech enthusiast with a passion for software 
 
 <p align = "center">
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lauralopezmd/)
+<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lauralopezmd/) -->
 <!-- <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> -->
 
 
